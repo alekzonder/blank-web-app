@@ -1,0 +1,23 @@
+{
+  "name": "blank-web-app",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "author": "alekzonder <alekzonder@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+
+    "jquery": "^2.1.4",
+    "moment": "^2.10.3",
+    "superagent": "^1.2.0",
+    "vue": "^0.12.7"
+  },
+  "devDependencies": {
+    "css-loader": "^0.9.1",
+    "html-loader": "^0.2.3",
+    "json-loader": "^0.5.1",
+    "style-loader": "^0.8.3",
+    "node-libs-browser": "^0.5.2",
+    "webpack": "^1.9.11"
+  }
+}
