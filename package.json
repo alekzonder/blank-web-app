@@ -6,7 +6,8 @@
   "author": "alekzonder <alekzonder@gmail.com>",
   "license": "MIT",
   "dependencies": {
-
+    "body-parser": "^1.13.2",
+    "express": "^4.13.1",
     "jquery": "^2.1.4",
     "moment": "^2.10.3",
     "superagent": "^1.2.0",

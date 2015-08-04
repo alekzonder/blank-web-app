@@ -4,11 +4,11 @@ module.exports = {
     resolve: {
         modulesDirectories: [
             'node_modules',
-            'src'
+            'src/web'
         ]
     },
     entry: {
-        app: "./src/app.js"
+        app: "./src/web/app.js"
     },
     devtool: 'source-map',
     output: {
